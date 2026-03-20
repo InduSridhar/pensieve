@@ -1,0 +1,9 @@
+streamlit>=1.38.0
+google-genai>=1.0.0
+chromadb>=0.5.0
+PyPDF2>=3.0.0
+youtube-transcript-api>=0.6.0
+langchain-text-splitters>=0.2.0
+python-dotenv>=1.0.0
+edge-tts>=7.0.0
+pytest>=8.0.0
